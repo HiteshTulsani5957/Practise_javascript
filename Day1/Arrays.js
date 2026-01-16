@@ -52,3 +52,51 @@
 // let a1= [23,45,44,78,21,90,91]
 // let a2 = a1.slice(2,3)
 // console.log(a2)
+
+// let a1= [23,45,44,78,21,90,91]
+// for(let i = 0 ; i<a1.length ; i++ )
+//     console.log(a1[i])
+
+
+// let a1= [2,3,4,5]
+// a1.forEach((b)=>{
+// console.log(b*b)
+// })
+
+// let a1= "amit"
+// let b = Array.from(a1) 
+// console.log(b)
+
+//for of
+// let a1= [2,3,4,5]
+// for(let i of a1){
+//     console.log(i)
+// }
+
+//for in
+// let a1= [2,3,4,5]
+// for(let i in a1){
+//     ////console.log(i)
+//     console.log(a1[i])
+// }
+//array map method
+// let a1= [2,3,4,5]
+// let a=a1.map((value,index,array)=>{
+//     console.log(value,index, array)
+//     return value+1 , index
+// })
+// console.log(a)
+
+//array filter method
+// let a1= [2,3,4,5]
+// let b=a1.filter((a)=>{
+// return a<5
+// })
+// console.log(a1,b)
+
+//array reduce method
+// let a= [2,3,4,5,]
+// let b = a.reduce((h1,h2)=>{
+//     return h1+h2
+// })
+// console.log(b)
