@@ -68,3 +68,12 @@
 //PROBLEM NO 5
 // let colour = prompt("ENTER THE BACKGROUND COLOUR")
 // document.body.style.background=(colour)
+
+
+
+
+//Chidren of an element
+// console.log (document.body.firstChild)
+// console.log (document.body.lastChild)
+// let a =Array.from(document.body.childNodes)//it convert the node list to an array
+// console.log (a)

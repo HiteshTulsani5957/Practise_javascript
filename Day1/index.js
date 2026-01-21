@@ -21,3 +21,8 @@
 // document.body.style.background="red"
 
 
+//Parents & Siblings of an Element
+console.log(document.body.firstChild)
+a=(document.body.firstChild)
+console.log(a.parentNode)
+console.log(a.parentElement)
