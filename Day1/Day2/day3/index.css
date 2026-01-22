@@ -1,0 +1,19 @@
+html,body{
+    height: 100%;
+    font-weight: 100%;
+    margin: 0;
+    padding: auto;
+}
+
+ul{
+    display: flex;
+    background-color: aqua;
+    margin: 0;
+    padding: 15px 0;
+    color: aliceblue;
+}
+
+ul li{
+    list-style: none;
+    margin: 0.23px;
+}
