@@ -21,3 +21,12 @@
 
 
 // console.log(document.getElementsByName("search"))
+
+
+// let a = document.getElementById("id1")
+// let b = document.getElementById("sp1")
+// console.log(a)
+// console.log(a.matches(".card"))
+// console.log(a.matches(".bow"))
+// console.log(sp1.closest("#sp1"))
+// console.log(a.contains(b))
