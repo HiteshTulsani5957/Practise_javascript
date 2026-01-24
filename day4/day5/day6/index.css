@@ -1,0 +1,18 @@
+
+
+/* //PROBLEM NO1 */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background: cyan;
+    display: flex;
+}
+
+nav li{
+    padding: 0.23px;
+    list-style: none;
+}
